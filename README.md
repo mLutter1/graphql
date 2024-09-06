@@ -6,7 +6,7 @@ This project aims to build a profile page that showcases your school information
 ## Usage
 
 ### How to run
-<strong></strong>
+<strong>Go to this link: https://mlutter1.github.io/graphql/</strong>
 
 
 
